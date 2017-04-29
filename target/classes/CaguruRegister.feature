@@ -1,7 +1,7 @@
 #Author: FElad
-Feature: Carguruji Test
+Feature: Register Test
 
-  Scenario: As a new carguruji user I want to create an account
+  Scenario: As a new user I want to create an account
     Given I am on carguruji HomePage
     And I click My Account button
     And I click countinue button
